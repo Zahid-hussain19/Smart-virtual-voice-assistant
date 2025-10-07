@@ -1,2 +1,2 @@
 # Smart-virtual-voice-assistant
-**Smart Notes Summarizer** is an AI-powered tool that simplifies long texts into concise summaries. It enhances productivity by extracting key insights, making information easier to digest. With a sleek UI and fast processing, it’s perfect for students, researchers, and professionals. Experience effortless summarization with just one click! 
+This repository features a Smart Virtual Voice Assistant built with speech recognition and NLP. It understands spoken commands, performs tasks like web search, app control, and reminders, and responds via text-to-speech, offering an interactive, hands-free experience for productivity and daily assistance.
