@@ -1,4 +1,4 @@
-# 🎙️ Smart Virtual Voice Assistant 🤖
+# 🎙️ PANDA 🤖
 
 A **Smart Virtual Voice Assistant** built using Python that can listen, understand, and respond to your voice commands — just like Alexa, Siri, or Google Assistant!  
 It performs various useful tasks such as searching the web, opening applications, telling the time, playing music, answering questions, and much more.
